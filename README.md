@@ -31,10 +31,13 @@ This part is only important if:
 - You're installing this with G.A.M.M.A.
 - You have the [Weapon Cover Tilt (WCT)](https://www.moddb.com/mods/stalker-anomaly/addons/weapon-cover-tilt-inertia) mod installed and enabled.
 
+**Without this mod all weapon mods using the class `_WP_SSRS` will randomly unscope while shooting.**
+
+Installation:
 1. Download the `WCT Callback for SSRS` mod from [Bence7661/WCT-Callback-for-SSRS](https://github.com/Bence7661/WCT-Callback-for-SSRS).
 2. Install it with MO2 as you would with any other mods. Priority doesn't matter as long as it's higher than WCT's prio.
 
-## SSRS engine class based Weapon mod installation (The SSRS): W.I.P.
+## SSRS engine class based Weapon mod installation (I will use Juan's weapon mod as an example): W.I.P.
 
 Download links for the full release haven't been set up yet.
 
