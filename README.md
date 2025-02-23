@@ -31,7 +31,7 @@ This part is only important if:
 - You're installing this with G.A.M.M.A.
 - You have the [Weapon Cover Tilt (WCT)](https://www.moddb.com/mods/stalker-anomaly/addons/weapon-cover-tilt-inertia) mod installed and enabled.
 
-**Without this mod all weapon mods using the class `_WP_SSRS` will randomly unscope while shooting.**
+**Without this fix mod all weapon mods using the class `_WP_SSRS` will randomly unscope while shooting.** This is due to the fact that the grenade shot by the GL is picked up by WCT's raycast and therefore triggers the tilt which makes you unscope.
 
 Installation:
 1. Download the `WCT Callback for SSRS` mod from [Bence7661/WCT-Callback-for-SSRS](https://github.com/Bence7661/WCT-Callback-for-SSRS).
