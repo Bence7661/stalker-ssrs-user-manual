@@ -13,13 +13,10 @@ Steps:
 2. Also download/extract the `Source code (zip)`. It does not matter where you extract it.
 
 ![image](https://github.com/user-attachments/assets/18d7a24e-f07f-4b62-b75d-439757c61788)
-3. Replace `gamedata/configs/mod_script_dxml.ltx` with the one from the previously downloaded `Source code (zip)`.
 
-![image](https://github.com/user-attachments/assets/174965c5-dd04-4618-a7fa-d9837a4fcbbd)
-
-4. Replace `gamedata/scripts/_g_patches.script` and Add/Replace `gamedata/scripts/class_registrator_modded_exes.script`.
-
-![image](https://github.com/user-attachments/assets/0187d19d-3b76-4468-a8b5-d819c445b406)
+3. Replace `gamedata` folder with the one from the previously downloaded `Source code (zip)`. Overwrite everything if asked.
+ 
+![image](https://github.com/user-attachments/assets/56c47a00-acb4-4536-8764-4e59daa5315a)
 
 You're officially done with the modded exes installation of the new weapon class. 🎊
 
