@@ -9,10 +9,12 @@ Since the engine mod piloted with Juan's SSRS weapon mod I will use that as an e
 ### Modded exes:
 
 Steps:
-1. Follow the guide provided on the official demonized modded exes repo: [themrdemonized/xray-monolith](https://github.com/themrdemonized/xray-monolith?tab=readme-ov-file#read-the-instructions-please)
-2. Also download/extract the `Source code (zip)`. It does not matter where you extract it.
+1. Download latest modded exes from here: [themrdemonized/xray-monolith](https://github.com/themrdemonized/xray-monolith?tab=readme-ov-file#read-the-instructions-please)
+    - Also download/extract the `Source code (zip)`. It does not matter where you extract it.
 
-![image](https://github.com/user-attachments/assets/18d7a24e-f07f-4b62-b75d-439757c61788)
+![image](https://github.com/user-attachments/assets/d020f090-4b89-4bd3-bb72-5b40c191759b)
+
+2. Follow install guide on the [themrdemonized/xray-monolith](https://github.com/themrdemonized/xray-monolith?tab=readme-ov-file#read-the-instructions-please) repo
 
 3. Replace `gamedata` folder with the one from the previously downloaded `Source code (zip)`. Overwrite everything if asked.
  
