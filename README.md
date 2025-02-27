@@ -36,9 +36,9 @@ Installation:
 1. Download the `WCT Callback for SSRS` mod from [Bence7661/WCT-Callback-for-SSRS](https://github.com/Bence7661/WCT-Callback-for-SSRS).
 2. Install it with MO2 as you would with any other mods. Priority doesn't matter as long as it's higher than WCT's prio.
 
-## SSRS engine class based Weapon mod installation (I will use Juan's weapon mod as an example): W.I.P.
+## SSRS engine class based Weapon mod installation example:
 
-Download links for the full release haven't been set up yet.
+Check out the WIKI page [SSRS weapon mod install guide (Juan's SSRS)](https://github.com/Bence7661/stalker-ssrs-user-manual/wiki/SSRS-weapon-mod-install-guide-(Juan's-SSRS))
 
 ## For modders
 
